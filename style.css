@@ -728,6 +728,66 @@ nav {
     font-size: 16px;
     font-style: italic;
     font-weight: 100;
-    margin-right: 35px;
-    
+
+}
+
+.view {
+    padding: 20px 24px;
+    align-items: center;
+    border-radius: 8px;
+    background: var(--Black, #303031);
+    color: var(--White, #FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 64px;
+}
+
+.seventh {
+    display: flex;
+}
+
+.lft-side {
+    margin-left: 56px;
+    margin-top: 227px;
+}
+
+.lft-side h1 {
+    color: var(--Black, #303031);
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.lft-side p {
+    width: 644px;
+    color: var(--Black, #303031);
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.lft-side button {
+    padding: 20px 24px;
+    border-radius: 8px;
+    background: #71A894;
+    color: var(--White, #FFF);
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    border: 1px solid white;
+}
+
+.rght-side img{
+    width: 644px;
+    height: 361px;
+    margin-top: 168px;
+    margin-left: 250px;
 }
